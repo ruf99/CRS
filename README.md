@@ -11,13 +11,13 @@ The student can register for classes similar to an actual university enrollment 
 I used serialization and ArrayLists to keep the data in sync.
 To use this code, you will need login credentials.
 
-Admin:
-Username: Admin
-Password: Admin001
+Admin: \n
+Username: Admin \n
+Password: Admin001 \n
 
 
-Student (default):
-Username: JD
+Student (default): \n
+Username: JD \n
 Password: Doe99
 
 ==========================================================
