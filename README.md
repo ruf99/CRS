@@ -1,4 +1,4 @@
-# CRS
+# CRSCancel changes
 
 A course registration system (CRS) created using object oriented programming.
 
@@ -10,14 +10,14 @@ The student can register for classes similar to an actual university enrollment 
 
 I used serialization and ArrayLists to keep the data in sync.
 To use this code, you will need login credentials.
-
-Admin: \n
+ ===================
+Admin: 
 Username: Admin 
 Password: Admin001 
-
+ ===================
 
 Student (default): 
 Username: JD 
 Password: Doe99
-
+ ===================
 ==========================================================
