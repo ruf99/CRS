@@ -12,12 +12,12 @@ I used serialization and ArrayLists to keep the data in sync.
 To use this code, you will need login credentials.
 
 Admin: \n
-Username: Admin \n
-Password: Admin001 \n
+Username: Admin 
+Password: Admin001 
 
 
-Student (default): \n
-Username: JD \n
+Student (default): 
+Username: JD 
 Password: Doe99
 
 ==========================================================
